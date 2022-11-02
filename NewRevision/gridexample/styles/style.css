@@ -1,0 +1,15 @@
+*,
+*::after,
+*::before{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+/* background */
+header, footer{
+    background-color: yellow;
+}
+main{
+    background-color: lightblue;
+}
+/* layout */
